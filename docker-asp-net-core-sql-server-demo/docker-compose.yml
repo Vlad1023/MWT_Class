@@ -16,5 +16,5 @@ services:
           - "1433:1433"
 
         environment:
-            SA_PASSWORD: "volkovskiy41k1YtpmfCm."
+            SA_PASSWORD: ""
             ACCEPT_EULA: "Y"
